@@ -22,7 +22,7 @@
 
 6. Download arXiv:
     ```
-    python download.py --manifest_file /path/to/src-manifest --mode X
+    python download.py --manifest_file /path/to/manifest.xml --mode X
     ```
    where X = src or pdf. 
    
