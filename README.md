@@ -22,9 +22,9 @@
 
 6. Download arXiv:
     ```
-    python download.py --manifest_file PATH --mode XXX
+    python download.py --manifest_file /path/to/src-manifest --mode X
     ```
-   PATH = path to the manifest.xml, and XXX = src or pdf. 
+   where X = src or pdf. 
    
 
 [^1]: download.py file adapted from https://github.com/armancohan/arxiv-tools.
